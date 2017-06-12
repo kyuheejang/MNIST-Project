@@ -5,7 +5,7 @@ Using MNIST Data set project.
 This project consists of server using MNIST data set and client (smart pad of Android operating system).
 The server was created using tensorflow and flask.
 
-first, You should replace the "Your URL" part in the server and client sources with your URL.
+First, You should replace the "Your URL" part in the server and client sources with your URL.
 
 Second, run the Android studio and compile the MNIST-Client source code on your android os device.
 If your device is not a smart pad but a cell phone, change the UI layout.
