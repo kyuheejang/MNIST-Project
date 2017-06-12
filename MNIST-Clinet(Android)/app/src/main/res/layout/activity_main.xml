@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.android_examples.drawingapp_android_examplescom.MainActivity"
+    >
+
+
+    <Button
+        android:layout_width="600dp"
+        android:layout_height="80dp"
+        android:text="S E N D"
+        android:textSize="30dp"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="23dp"
+        android:layout_alignRight="@+id/relativelayout1"
+        android:layout_alignEnd="@+id/relativelayout1" />
+
+    <RelativeLayout
+        android:id="@+id/relativelayout1"
+        android:layout_width="500dp"
+        android:layout_height="500dp"
+        android:layout_above="@+id/button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="28dp">
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="530dp"
+        android:layout_height="650dp"
+        android:layout_marginRight="63dp"
+        android:layout_marginEnd="63dp"
+        android:id = "@+id/img"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>
