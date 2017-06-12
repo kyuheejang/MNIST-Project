@@ -1,6 +1,5 @@
 # MNIST-Project
-MNIST Project
-========================
+
 Using MNIST Data set project. 
 -
 This project consists of server using MNIST data set and client (smart pad of Android operating system).
