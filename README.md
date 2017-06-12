@@ -13,7 +13,7 @@ Second, run the Android studio and compile the MNIST-Client source code on your 
 If your device is not a smart pad but a cell phone, change the UI layout.
 
 
-Third, adjust the number of models and the degree of learning according to your computer environment to operate the server. 
+Third, adjust the number of models and the degree of learning according to your computer environment to operate the server.
 (It takes a long time to learn too much because I applied Assemble.)
 
 
