@@ -1,12 +1,12 @@
 # MNIST-Project
 
-Using MNIST Data set project. 
+**Used Data set: MNIST** 
 
 **Made Date: 2017.06**
 
-**Used Language:Python, Android**
+**Used Language: Python, Android**
 
-**Used Library:Flask, Tensorflow**
+**Used Library: Flask, Tensorflow**
 
 This project consists of server using MNIST data set and client (smart pad of Android operating system).
 The server was created using tensorflow and flask.
