@@ -1,8 +1,8 @@
 # MNIST-Project
 
-**Used Data set: MNIST** 
-
 **Made Date: 2017.06**
+
+**Used Data set: MNIST** 
 
 **Used Language: Python, Android**
 
