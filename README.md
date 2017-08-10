@@ -2,7 +2,6 @@
 
 Using MNIST Data set project. 
 
--
 **Made Date: 2017.06**
 
 **Used Language:Python, Android**
